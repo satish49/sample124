@@ -1,0 +1,130 @@
+fileFormatVersion: 2
+guid: f3d1aa4aa013ab14d95d96c44e659ee9
+timeCreated: 1438448233
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: bahama_101
+    100002: Cylinder00
+    100004: Cylinder001
+    100006: Cylinder01
+    100008: //RootNode
+    100010: fly_f0008
+    100012: Group001
+    100014: Group002
+    100016: Object001
+    100018: Object002
+    100020: Object007
+    100022: Shape001
+    100024: Shape002
+    100026: Sphere001
+    100028: Sphere002
+    400000: bahama_101
+    400002: Cylinder00
+    400004: Cylinder001
+    400006: Cylinder01
+    400008: //RootNode
+    400010: fly_f0008
+    400012: Group001
+    400014: Group002
+    400016: Object001
+    400018: Object002
+    400020: Object007
+    400022: Shape001
+    400024: Shape002
+    400026: Sphere001
+    400028: Sphere002
+    2300000: Cylinder00
+    2300002: Cylinder001
+    2300004: Cylinder01
+    2300006: Object001
+    2300008: Object002
+    2300010: Object007
+    2300012: Shape001
+    2300014: Shape002
+    2300016: Sphere001
+    2300018: Sphere002
+    3300000: Cylinder00
+    3300002: Cylinder001
+    3300004: Cylinder01
+    3300006: Object001
+    3300008: Object002
+    3300010: Object007
+    3300012: Shape001
+    3300014: Shape002
+    3300016: Sphere001
+    3300018: Sphere002
+    4300000: Sphere002
+    4300002: Cylinder00
+    4300004: Shape001
+    4300006: Object002
+    4300008: Shape002
+    4300010: Sphere001
+    4300012: Cylinder01
+    4300014: Object007
+    4300016: Object001
+    4300018: Cylinder001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
