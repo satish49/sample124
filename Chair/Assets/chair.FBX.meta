@@ -1,0 +1,128 @@
+fileFormatVersion: 2
+guid: b4bb848b172b6e64899e3a06de5d70e0
+timeCreated: 1436274141
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: ' logo'
+    100002: ' stal'
+    100004: ' tapicerk0'
+    100006: ' tapicerk1'
+    100008: ' tapicerk2'
+    100010: ' tapicerk3'
+    100012: ' tapicerk4'
+    100014: ' tapicerka'
+    100016: //RootNode
+    100018: Camera001
+    100020: Camera001.Target
+    100022: Chair
+    100024: PhotometricLight001
+    100026: PhotometricLight002
+    100028: PhotometricLight003
+    100030: Plane001
+    400000: ' logo'
+    400002: ' stal'
+    400004: ' tapicerk0'
+    400006: ' tapicerk1'
+    400008: ' tapicerk2'
+    400010: ' tapicerk3'
+    400012: ' tapicerk4'
+    400014: ' tapicerka'
+    400016: //RootNode
+    400018: Camera001
+    400020: Camera001.Target
+    400022: Chair
+    400024: PhotometricLight001
+    400026: PhotometricLight002
+    400028: PhotometricLight003
+    400030: Plane001
+    2300000: ' logo'
+    2300002: ' stal'
+    2300004: ' tapicerk0'
+    2300006: ' tapicerk1'
+    2300008: ' tapicerk2'
+    2300010: ' tapicerk3'
+    2300012: ' tapicerk4'
+    2300014: ' tapicerka'
+    2300016: Plane001
+    3300000: ' logo'
+    3300002: ' stal'
+    3300004: ' tapicerk0'
+    3300006: ' tapicerk1'
+    3300008: ' tapicerk2'
+    3300010: ' tapicerk3'
+    3300012: ' tapicerk4'
+    3300014: ' tapicerka'
+    3300016: Plane001
+    4300000: ' tapicerka'
+    4300002: ' tapicerk0'
+    4300004: ' tapicerk1'
+    4300006: ' tapicerk2'
+    4300008: ' tapicerk3'
+    4300010: ' tapicerk4'
+    4300012: ' stal'
+    4300014: ' logo'
+    4300016: Plane001
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
