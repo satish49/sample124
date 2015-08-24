@@ -6,7 +6,7 @@ public class HideFloors : MonoBehaviour
 {
 
     GUI.WindowFunction windowFunction;
-    Rect windowRect = new Rect(0, 0, 130, 420);
+    Rect windowRect = new Rect(0, 0, 140, 440);
 
 
     //get floors and create objects dynamically
@@ -104,7 +104,7 @@ public class HideFloors : MonoBehaviour
         //30, 60, 100, 20
         float left = 10;
         float top = 20;
-        float width = 100;
+        float width = 120;
         float height = 20;
 
         foreach (KeyValuePair<GameObject, List<Transform>> KeyValue in floorsWithObjects)
